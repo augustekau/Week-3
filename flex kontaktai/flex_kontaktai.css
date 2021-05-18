@@ -1,0 +1,57 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-top: 0;
+}
+
+p {
+  font-size: 16px;
+  padding-right: 50px;
+  line-height: 30px;
+}
+img {
+  max-width: 100%;
+}
+input {
+  width: 100%;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background: #f3f3f3;
+  margin: 10px;
+  box-sizing: border-box;
+}
+textarea {
+  width: 100%;
+  height: 200px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background: #f3f3f3;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.send {
+  width: 150px;
+  background: black;
+  color: white;
+  border-radius: 4px;
+}
+.flex {
+  display: flex;
+}
+.box-wrapper {
+  width: 50%;
+}
+.form-wrapper {
+  width: 50%;
+}
