@@ -1,0 +1,62 @@
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.card a {
+  text-decoration: none;
+  color: #333;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.card__image img {
+  width: 100%;
+}
+
+.card__image {
+  position: relative;
+}
+
+.icon1,
+.icon2,
+.icon3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon1 {
+  background: #00d054;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+}
+.icon2 {
+  background: #00d054;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 70px;
+  bottom: 10px;
+}
+.icon3 {
+  background: #00d054;
+  width: 130px;
+  height: 50px;
+  position: absolute;
+  left: 130px;
+  bottom: 10px;
+  color: white;
+  font-size: 20px;
+}
+
+.icon i {
+  color: white;
+  font-size: 40px;
+}
+
+.card {
+  width: 50%;
+}
