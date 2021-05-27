@@ -17,4 +17,13 @@
   .flex {
     flex-wrap: wrap;
   }
+  .box-wrapper {
+    width: 100%;
+  }
+  .form-wrapper {
+    width: 100%;
+  }
+  .container {
+    width: 90%;
+  }
 }

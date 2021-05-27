@@ -49,9 +49,9 @@ textarea {
 .flex {
   display: flex;
 }
-box-wrapper {
-  width: 100%;
+.box-wrapper {
+  width: 50%;
 }
 .form-wrapper {
-  width: 100%;
+  width: 50%;
 }
